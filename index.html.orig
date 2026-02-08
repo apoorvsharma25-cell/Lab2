@@ -7,9 +7,11 @@
 </head>
 
 <body>
-    <h1>Project Page</h1>
+<<<<<<< HEAD
     <h1>Project Page Updated V2</h1>
+=======
     <h1>Project Page Version V3</h1>
+>>>>>>> dev2
     <div class="main-container">
         <div class="cloud-image">
             <img src="img/successCloudNew.svg" />
